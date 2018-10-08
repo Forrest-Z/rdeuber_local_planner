@@ -1,0 +1,7 @@
+<library path="lib/librdeuber_local_planner">
+  <class name="rdeuber_local_planner/RDEUBERPlannerROS" type="rdeuber_local_planner::RDEUBERPlannerROS" base_class_type="nav_core::BaseLocalPlanner">
+    <description>
+      A implementation of a local planner as toy example for Robin Deuber to learn how to write a plugin.
+    </description>
+  </class>
+</library>
