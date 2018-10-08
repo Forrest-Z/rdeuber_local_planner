@@ -2,7 +2,7 @@
 * Author: Robin Deuber
 *********************************************************************/
 #ifndef RDEUBER_LOCAL_PLANNER_RDEUBER_PLANNER_H_
-#define RDEUBER_LOCAL_PLANNER_RDEUBER_LANNER_H_
+#define RDEUBER_LOCAL_PLANNER_RDEUBER_PLANNER_H_
 
 #include <vector>
 #include <Eigen/Core>
